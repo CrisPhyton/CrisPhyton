@@ -1,9 +1,7 @@
 <p align="center">
 👋 Olá, eu sou Cristiano Lima!  
 
-<p align="center">
-  <img src="https://github.com/CrisPhyton/CrisPhyton/blob/main/Imagem%20do%20WhatsApp%20de%202025-02-06%20%C3%A0(s)%2007.28.44_36a7a8fc.jpg" alt="Perfil" width="100" style="border-radius:50%">
-</p>
+
 
 <p align="center">
   💻 Engenheiro de Software | Backend | Programação em Python  
