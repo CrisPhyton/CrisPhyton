@@ -1,29 +1,51 @@
-# 👋 Olá, eu sou Cristiano Lima!
+<p align="center">
+👋 Olá, eu sou Cristiano Lima!  
 
-<img src="https://github.com/CrisPhyton/CrisPhyton/blob/main/Imagem%20do%20WhatsApp%20de%202025-02-06%20%C3%A0(s)%2007.28.44_36a7a8fc.jpg" alt="Perfil" width="80">
+<p align="center">
+  <img src="https://github.com/CrisPhyton/CrisPhyton/blob/main/Imagem%20do%20WhatsApp%20de%202025-02-06%20%C3%A0(s)%2007.28.44_36a7a8fc.jpg" alt="Perfil" width="100" style="border-radius:50%">
+</p>
 
-### 🚀 Sobre mim  
-- 💻 Engenheiro de Software | Backend | Programação em Python  
-- 📚 Apaixonado por tecnologia e aprendizado contínuo  
-- 🎯 Buscando contribuir em projetos Open Source e desafios interessantes  
+<p align="center">
+  💻 Engenheiro de Software | Backend | Programação em Python  
+  <br>
+  📚 Apaixonado por tecnologia e aprendizado contínuo  
+  <br>
+  🎯 Buscando contribuir em projetos Open Source e desafios interessantes  
+</p>
 
-### 🛠️ Tecnologias e Ferramentas  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+---
+<p align="center">
+ 🛠️ Tecnologias e Ferramentas  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-### 📊 Estatísticas do GitHub  
-![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=CrisPhyton&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisPhyton&layout=compact&theme=radical)
+---
+<p align="center">
+📊 Estatísticas do GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CrisPhyton&show_icons=true&theme=radical" alt="Estatísticas" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisPhyton&layout=compact&theme=radical" alt="Linguagens" width="400"/>
+</p>
 
-### 🚧 Projetos em destaque  
-- [Projeto 1](https://github.com/CrisPhyton/projeto1):  
-- [Projeto 2](https://github.com/CrisPhyton/projeto2):   
+---
+<p align="center">
+ 📫 Como me encontrar  
 
-### 📫 Como me encontrar  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cristiano-lima-de-souza-575a74199)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:neuralcriativo@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristiano-lima-de-souza-575a74199">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href="mailto:neuralcriativo@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
 
-### ⚡ Curiosidades  
-- 🎮 Apaixonado por jogos  
+---
+<p align="center">
+ ⚡ Curiosidades  
+- 👨‍👩‍👧 Família é tudo pra mim 
+- 🙏 Fé é minha base   
 - 📚 Sempre aprendendo algo novo  
